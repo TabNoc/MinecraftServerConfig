@@ -1,6 +1,9 @@
 #OpenPeripheral user-friendly names
 #class_name	user_name
+cofh.thermalexpansion.block.ender.TileTesseract	tile_thermalexpansion_ender_tesseract_name
 cpw.mods.ironchest.TileEntityIronChest	iron
+crazypants.enderio.conduit.TileConduitBundle	blockconduitbundletileentity
+crazypants.enderio.machine.capbank.TileCapBank	tile_blockcapacitorbank_name
 dan200.computercraft.shared.turtle.blocks.TileTurtleAdvanced	tile_computercraft_turtle_name
 net.minecraft.block.BlockJukebox$TileEntityJukebox	record_player
 net.minecraft.tileentity.TileEntityBeacon	beacon
